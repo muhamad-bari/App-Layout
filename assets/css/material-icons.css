@@ -3,13 +3,13 @@
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(https://luma.humatheme.com/public/fonts/material-icons/MaterialIcons-Regular.eot);
+    src: url(material-icons/MaterialIcons-Regular.eot);
     src: local("\263A"),
-      url(https://luma.humatheme.com/public/fonts/material-icons/MaterialIcons-Regular.woff2)
+      url(material-icons/MaterialIcons-Regular.woff2)
         format("woff2"),
-      url(https://luma.humatheme.com/public/fonts/material-icons/MaterialIcons-Regular.woff)
+      url(material-icons/MaterialIcons-Regular.woff)
         format("woff"),
-      url(https://luma.humatheme.com/public/fonts/material-icons/MaterialIcons-Regular.ttf)
+      url(material-icons/MaterialIcons-Regular.ttf)
         format("truetype");
   }
   .material-icons {
